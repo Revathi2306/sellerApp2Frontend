@@ -8,7 +8,7 @@ const Header = () => {
        <nav className="navbar navbar-expand-lg fixed-top bg-body-tertiary">
           <div className="container-fluid nav-div">
             <NavLink to="/" className="navbar-brand" href="#">
-              Seller Application
+              Seller Application 2
             </NavLink>
             <button
               className="navbar-toggler"

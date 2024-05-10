@@ -41,7 +41,7 @@
 }
 
 .nav-item :hover {
-  color: #195587;
+  color: #198782;
 }
 
 .home-div{
@@ -63,7 +63,7 @@
 }
 
 .btn-primary{
-  background-color: #195587;
+  background-color: #198782;
   border-radius: 5px;
   border: none;
 }
@@ -72,7 +72,7 @@
 .btn-primary:active,
 .btn-primary:focus,
 .open>.dropdown-toggle.btn-primary{
-  background-color: #2b6696 !important;
+  background-color: #409b97 !important;
 }
 
 .card-text{
@@ -169,7 +169,7 @@
 .contact-line{
   border: 3px solid;
   width: 13%;
-  color: #195587;
+  color: #198782;
   margin-left: 0;
   opacity: 50%;
 }
